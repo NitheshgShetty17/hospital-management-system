@@ -1,0 +1,2 @@
+This file is added to demonstrate version control and repository activity
+for the Hospital Management System project.
